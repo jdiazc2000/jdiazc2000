@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ECommerce page](https://woola-commerce-template.netlify.app/#)
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript, React JS**
 
 - 🤝 I’m looking for help with **Frontend development**
 
