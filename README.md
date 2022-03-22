@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Díaz Cortegana</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🔭 I’m currently working on [ECommerce page](https://woola-commerce-template.netlify.app/#)
+- 🔭 I’m currently working on [Woola commmerce page](https://woola-commerce-juliodiaz.netlify.app/)
 
 - 🌱 I’m currently learning **JavaScript, React JS**
 
