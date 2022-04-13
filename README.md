@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portafolio-juliodiaz.netlify.app/](https://portafolio-juliodiaz.netlify.app/)
 
-- 📫 How to reach me **julio_díaz_cortegana@hotmail.com**
+- 📫 How to reach me **julio_díaz_cortegana@hotmail.com** 
 
 <p align="left">
 </p>
