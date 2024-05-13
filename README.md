@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julio Díaz Cortegana</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🔭 I’m currently working on [My updated portafolio page](...Building the mockpup...)
+- 🔭 I’m currently working on my Dev Career :)
 
 - 🌱 I’m currently learning **JavaScript, React JS, TypeScript, Angular**
 
 - 🤝 I’m looking for help with **Frontend development**
-
-- 👨‍💻 All of my projects are available at [https://portafolio-juliodiaz.netlify.app/](https://portafolio-juliodiaz.netlify.app/) *NOT UPDATED PORTAFOLIO PAGE YET*
 
 - 📫 How to reach me **julio_díaz_cortegana@hotmail.com** or **Julio César Díaz Cortegana** on Linkedin
 
